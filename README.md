@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fzahirsyah
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, jupyter notebook
 - 💞️ I’m looking to collaborate on any Data Science, Analytics, or Machine Learning
 - 📫 How to reach me email me farhanzahirsyah1@gmail.com
 
