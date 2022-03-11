@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python, jupyter notebook, Machine learning using Udemy
 - 💞️ I’m looking to collaborate on any Data Science, Analytics, or Machine Learning
-- 📫 How to reach me email me farhanzahirsyah1@gmail.com
+- 📫 How to reach me email at farhanzahirsyah1@gmail.com
 
 <!---
 fzahirsyah/fzahirsyah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
